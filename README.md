@@ -16,7 +16,7 @@ This page will contain general information and important announcements, please m
    * Three tutorial sections at BA1200, BA2165, and BA2185
    * No tutorials on the first week
  * [Discussion Board](http://piazza.com/utoronto.ca/fall2014/csc301/)
- * [Official course info sheet](CSC301-L0101-InfoSheet.pdf)
+ * [Official course info sheet](CSC301-InfoSheet.pdf)
 
 
 ## Marking Scheme ##
