@@ -25,7 +25,7 @@ This page will contain general information and important announcements, please m
 What | When (Tentative) | How Much
 --- | --- | ---
 [Mini-exercise](https://github.com/csc301-fall2014/mini-exercise/tree/st-george-morning-section)  | Mon, 22 Sep | 1% | 1%
-Exercise       |  | 9%
+[Exercise](https://github.com/csc301-fall2014/CSC301H1F-L0101-Home/blob/master/exercise1.md) |  | 9%
 Project Phase1 |  | 8% 
 Midterm        | Thu, 30 Oct | 10%
 Project Phase2 | Mon, 27 Oct | 12%
