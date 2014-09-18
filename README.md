@@ -34,3 +34,11 @@ Project Phase4 | Mon, 24 Nov | 15%
 Final Exam     | TBD         | 35%
 
 *Note:* You must get at least 40% on the final exam in order to pass the course.
+
+## Lecture and related resources ##
+* Week 2
+   * Git Hands-on (By using only the following three resources, you can start from knowing nothing about Git to being very comfortable with Git in a very short time)
+     * [Learn Git in 15 mins] (https://try.github.io/levels/1/challenges/1)
+     * [An interactive Git Cheatsheet] (http://ndpsoftware.com/git-cheatsheet.html)
+     * [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
+    
