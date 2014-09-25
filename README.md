@@ -11,10 +11,14 @@ This page will contain general information and important announcements, please m
  * Lectures: 
    * Tuesdays/Thursdays 10-11, BA1200
    * No lecture on Nov 18th due to November Break
- * Tutorials: 
+ * Tutorials:
    * Thursdays 11-12 (Just after the Thursday lecture)
    * Three tutorial sections at BA1200, BA2165, and BA2185
    * No tutorials on the first week
+* TA's: 
+   * Jia Ming (Anson) Liang Email: ansonlia@cs.toronto.edu (BA1200)
+   * Mahsa Sadi Email: mhsadi@cs.toronto.edu (BA2165)
+   * Rachel Twiss Email: rachel.twiss@mail.utoronto.ca (BA2185)
  * [Discussion Board](http://piazza.com/utoronto.ca/fall2014/csc301/)
  * [Official course info sheet](301F14-CourseInfoSheet.pdf)
 
