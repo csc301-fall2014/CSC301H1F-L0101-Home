@@ -15,7 +15,7 @@ This page will contain general information and important announcements, please m
    * Thursdays 11-12 (Just after the Thursday lecture)
    * Three tutorial sections at BA1200, BA2165, and BA2185
    * No tutorials on the first week
-* TA's: 
+ * TA's: 
    * Jia Ming (Anson) Liang Email: ansonlia@cs.toronto.edu (BA1200)
    * Mahsa Sadi Email: mhsadi@cs.toronto.edu (BA2165)
    * Rachel Twiss Email: rachel.twiss@mail.utoronto.ca (BA2185)
