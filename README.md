@@ -51,3 +51,5 @@ Final Exam     | TBD         | 35%
      * [An interactive Git Cheatsheet] (http://ndpsoftware.com/git-cheatsheet.html)
      * [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
     
+ * Week 3
+     * [User-Centric Planning] (301F14-Week3-User-Centric Planning.pdf)
