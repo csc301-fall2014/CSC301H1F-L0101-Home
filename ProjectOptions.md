@@ -22,7 +22,7 @@ Just to give you an idea, here are example of hypothetical topics that could mak
 ## Online University Portal Module
 #### Android/Web/Console-application
 
--Pending Approval
+(Pending Approval)
 The previous two project options can be integrated as part of a larger Online University Portal.
 If you have another suggestion that is self contained and can be a part of an Online University Portal, and if you believe you can work hard on building that project then you can propose your idea.
 
