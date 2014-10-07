@@ -30,7 +30,7 @@ What | When (Tentative) | How Much
 --- | --- | ---
 [Mini-exercise](https://github.com/csc301-fall2014/mini-exercise/tree/st-george-morning-section)  | Mon, 22 Sep | 1% | 1%
 [Exercise](https://github.com/csc301-fall2014/CSC301H1F-L0101-Home/blob/master/exercise1.md) |  | 9%
-Project Phase1 |  | 8% 
+[Project Phase1](https://github.com/csc301-fall2014/CSC301H1F-L0101-Home/blob/master/Phase1Handout.md) |  | 8% 
 Midterm        | Thu, 30 Oct | 10%
 Project Phase2 | Mon, 27 Oct | 12%
 Project Phase3 | Mon, 10 Nov | 10% 
