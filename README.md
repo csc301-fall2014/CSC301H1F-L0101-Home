@@ -53,3 +53,12 @@ Final Exam     | TBD         | 35%
     
 * Week 3
      * [User-Centric Planning] (301F14-Week3-User-Centric Planning.pdf)
+* Week 4
+     * Coupling vs Cohesion
+* Week 5
+     * CRC Cards Refresher
+     * Work on the project
+* Week 6
+     * Guest lecture on Requirements, MDD and BPM
+     * Guest lecture on Entrepreneurship
+  
