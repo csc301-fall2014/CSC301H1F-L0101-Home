@@ -41,7 +41,7 @@ Final Exam     | TBD         | 35%
 
 ## Lecture and related resources ##
 * Week 1
-     * Introduction
+     * [Introduction and Motivation] (CSC301-F14-Week1.pdf)
      * Version Control (Introduction to Distributed Version Control Systems and Git)
    
 * Week 2
