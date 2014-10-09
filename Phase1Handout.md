@@ -16,7 +16,7 @@ _Note:_ You will not be allowed to switch projects after this phase, so please m
 
 All of your team’s deliverables should be submitted in a folder called `Phase1`, in the root of your __team repo__.
 (Your team repo will be created)
- * It is up to you to decide how to organize the files in the `Phase1` directory, and which format(s) to use (e.g. PDF, text, etc...). 
+ * It is up to you to decide how to organize the files in the `Phase1` directory, and which format(s) to use (e.g. PDF, text, etc...). **Markdown (md) is prefered but not a requirement (Just try to make it easy for us to read it).**
  * Make sure it is easy for the marker to read your submission.
  * Suggestion: You can create a README.md file in the root of your team repo, and link to your submition from there.
 
