@@ -59,6 +59,7 @@ Final Exam     | TBD         | 35%
      * CRC Cards Refresher
      * Work on the project
 * Week 6
-     * Guest lecture by [Sandy Kemsley](http://column2.com/about/) on Requirements, MDD and BPM
-     * Guest lecture by [Mario Grech] (https://drive.google.com/file/d/0B51-wIK4rwiuaEk2N2tPNjM0YTg/edit) on Entrepreneurship
+     * Guest [lecture] (Week6-SWDevInRealWorld.pdf) by [Sandy Kemsley](http://column2.com/about/) on Requirements, MDD and BPM
+     * Guest [lecture] (Week6-BizOfSW.pdf) by [Mario Grech] (https://drive.google.com/file/d/0B51-wIK4rwiuaEk2N2tPNjM0YTg/edit) on Entrepreneurship
+
   
