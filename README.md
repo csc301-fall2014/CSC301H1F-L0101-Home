@@ -32,7 +32,7 @@ What | When (Tentative) | How Much
 [Exercise](https://github.com/csc301-fall2014/CSC301H1F-L0101-Home/blob/master/exercise1.md) |  | 9%
 [Project Phase1](https://github.com/csc301-fall2014/CSC301H1F-L0101-Home/blob/master/Phase1Handout.md) | Tue, 14 Oct (10pm)  | 8% 
 Midterm        | Thu, 30 Oct | 10%
-Project Phase2 | ~~Mon, 27 Oct~~  __Wed, 5 Nov__ | 12%
+[Project Phase2](https://github.com/csc301-fall2014/CSC301H1F-L0101-Home/blob/master/Phase2Handout.md) | ~~Mon, 27 Oct~~  __Wed, 5 Nov__ | 12%
 Project Phase3 | Mon, 10 Nov | 10% 
 Project Phase4 | Mon, 24 Nov | 15% 
 Final Exam     | TBD         | 35%
