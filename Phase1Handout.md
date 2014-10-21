@@ -62,3 +62,31 @@ Your submission should include the following information
    * CRC Cards that show a high-level design of your software architecture.
    * Choose 3 user stories you are planning to implement early on, and “play out” their scenario using your CRC cards.
    
+## Individual Deliverables
+
+Your individual deliverable should be submitted in a file called `phase1-peer-eval.md`, in the root of your __personal repo__.
+
+ * Evaluate yourself and each one of your teammates, __and explain__ your evaluation in 1-3 sentences.
+ * Use the following evaluation scheme:
+   * 0 - Absent, non-communicating and/or destructive.
+   * 1 - Significantly below average contribution.
+   * 2 - Contributing but below average.
+   * 3 - Average contribution.
+   * 4 - Above average contribution.
+   * 5 - Excellent contribution.
+  
+ * First entry is evaluating yourself. Mention briefly (what do you think are) your strengths and weaknesses.
+ * For other entries, please make them sorted on the GithubUsername to make it easier for the TAs to consolidate this data.
+ * We expect that most of the students are between 2 and 4.
+ * 0, 1 and 5 are extremes, then you need to give a strong justification for such evaluation.
+ * TAs might need to ask you to elaborate more on your peer evaluation (esp. if it is an extreme)
+ 
+ * Please follow this format:
+ 
+    ```
+    * GitHubUsername1, NumericEvaluation - Self Evaluation Explanation
+    * GitHubUsername2, NumericEvaluation - Peer Evaluation Explanation
+    * GitHubUsername3, NumericEvaluation - Peer Evaluation Explanation
+    …
+    ```
+
