@@ -56,14 +56,10 @@ Final Exam     | TBD         | 35%
 * Week 4
      * Coupling vs Cohesion
 * Week 5
-     * CRC Cards Refresher
+     * [CRC Cards Refresher](Week5-crc-301.pdf)
      * Work on the project
 * Week 6
      * Guest [lecture] (Week6-SWDevInRealWorld.pdf) by [Sandy Kemsley](http://column2.com/about/) on Requirements, MDD and BPM
      * Guest [lecture] (Week6-BizOfSW.pdf) by [Mario Grech] (https://drive.google.com/file/d/0B51-wIK4rwiuaEk2N2tPNjM0YTg/edit) on Entrepreneurship
 
-* Week 7
-     * [Software Architecture](Week7-Arch-1.pdf)
-     * [SOLID - OO Design Principles](Week7-SOLID.pdf)
-     * [Midterm prep. and announcements](Week7-MidtermPrep.pdf)
   
