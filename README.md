@@ -54,7 +54,7 @@ Final Exam     | TBD         | 35%
 * Week 3
      * [User-Centric Planning] (301F14-Week3-User-Centric Planning.pdf)
 * Week 4
-     * Coupling vs Cohesion
+     * [Coupling vs Cohesion](Week4-Coupling.pdf)
 * Week 5
      * [CRC Cards Refresher](Week5-crc-301.pdf)
      * Work on the project
