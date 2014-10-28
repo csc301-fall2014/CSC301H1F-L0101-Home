@@ -66,3 +66,5 @@ Final Exam     | TBD         | 35%
      * [Software Architecture](Week7-Arch-1.pdf)
      * [SOLID - OO Design Principles](Week7-SOLID.pdf)
      * [Midterm prep. and announcements](Week7-MidtermPrep.pdf)
+* Week 8
+     * Midterm   
