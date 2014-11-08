@@ -33,8 +33,8 @@ What | When (Tentative) | How Much
 [Project Phase1](https://github.com/csc301-fall2014/CSC301H1F-L0101-Home/blob/master/Phase1Handout.md) | Tue, 14 Oct (10pm)  | 8% 
 Midterm        | Thu, 30 Oct | 10%
 [Project Phase2](https://github.com/csc301-fall2014/CSC301H1F-L0101-Home/blob/master/Phase2Handout.md) | ~~Mon, 27 Oct~~  __Wed, 5 Nov__ | 12%
-Project Phase3 | Mon, 10 Nov | 10% 
-Project Phase4 | Mon, 24 Nov | 15% 
+Project Phase3 | ~~Mon, 10 Nov~~ Thu, 13 Nov | 10% 
+Project Phase4 | ~~Mon, 24 Nov~~ Wed, 26 Nov| 15%
 Final Exam     | TBD         | 35%
 
 *Note:* You must get at least 40% on the final exam in order to pass the course.
