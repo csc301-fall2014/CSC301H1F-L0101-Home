@@ -68,3 +68,8 @@ Final Exam     | TBD         | 35%
      * [Midterm prep. and announcements](Week7-MidtermPrep.pdf)
 * Week 8
      * Midterm   
+* Week 9
+     * Design Patterns
+     * Project Phase II - Demos
+* Week 10
+     * Thu. Lecture is cancelled
