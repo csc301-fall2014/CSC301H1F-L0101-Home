@@ -103,3 +103,5 @@ Please follow [this template](https://github.com/csc301-fall2014/CSC301H1F-L5101
  * Individual Mark (20%)
    * Based on (the content and presentation of) your report in `Phase4/IndividualReports.md`.
 
+**Important Note:**
+As a general rule, a student gets a team mark only if they contribute to the project and collaborate with their team members. Doing no work on Phase 4 will earn a 0 in this phase.
