@@ -73,3 +73,5 @@ Final Exam     | TBD         | 35%
      * Project Phase II - Demos
 * Week 10
      * Thu. Lecture is cancelled
+* Week 11
+     * [Design Patterns](https://drive.google.com/file/d/0B8M829WDBsKETXl0MWNuZTN6bmM/view?usp=sharing)
