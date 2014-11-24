@@ -75,3 +75,6 @@ Final Exam     | TBD         | 35%
      * Thu. Lecture is cancelled
 * Week 11
      * [Design Patterns](https://drive.google.com/file/d/0B8M829WDBsKETXl0MWNuZTN6bmM/view?usp=sharing)
+* Week 12
+     * Design Patterns
+     * Project Presentations
