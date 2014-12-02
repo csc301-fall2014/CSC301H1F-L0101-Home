@@ -78,3 +78,7 @@ Final Exam     | TBD         | 35%
 * Week 12
      * Design Patterns
      * Project Presentations
+* Week 13
+     * Project Presentations
+     * [Agile Software Development](https://docs.google.com/presentation/d/1HdNQlaMcNJKaWUsUAR-aH2k3GBiwygOTwFHWagALYe4/edit?usp=sharing)
+     * [Final Exam Review](https://docs.google.com/presentation/d/1STk4TSaSpJ99i6J6ysyFFrxVGc5RxMPyMQl_iYJ4J_M/edit?usp=sharing)
